@@ -12,11 +12,10 @@ Before you embark on your chat journey with MnemovaAI, ensure that you have the 
 
    a. **Sign Up for OpenAI**: If you haven't already, sign up for an account on the [OpenAI platform](https://platform.openai.com/).
 
-   b. **Create an API Key**: Once you're logged in, navigate to your dashboard and create a new API key. You may need to follow their documentation for specific instructions.
+   b. **Create an API Key**: Once you're logged in, navigate to your dashboard and create a new API key.
 
    c. **Replace API Key**: After obtaining your API key, make sure to replace `'your_api_key'` in the code with your actual API key.
 
-Now you have all the prerequisites in place to get started with MnemovaAI.
 
 ## Installation
 To set up and run MnemovaAI, follow these straightforward installation steps:
