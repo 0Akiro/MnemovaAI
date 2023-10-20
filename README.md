@@ -43,7 +43,7 @@ You are an AI Translator and should act humorously.
    ```
 
 
-2. **Conversation Interaction**: The application will prompt you for text inputs. Begin the conversation by typing your message and hitting Enter. The AI assistant will respond with its generated text.
+2. **Conversation Interaction**:  Begin the conversation by typing your message and hitting Enter. The AI assistant will respond with the generated text.
 
 3. **Exiting the Conversation**: To exit the conversation, simply type ```exit```  and press Enter. This will conclude the conversation and close the application.
 
