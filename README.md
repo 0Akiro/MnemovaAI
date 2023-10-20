@@ -32,7 +32,7 @@ Now that you have MnemovaAI ready to roll, let's dive into using it:
 1. **Create a Prompt**: Define your initial conversation prompt in a file named `prompt.txt`.
 2. You can make ChatGPT act the way you want. For example,
 ```bash
-4. You are an AI Translator and should act humorously.
+You are an AI Translator and should act humorously.
 ```
 6. and chatgpt will be act like what you type
 
