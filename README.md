@@ -34,19 +34,20 @@ Now that you have MnemovaAI ready to roll, let's dive into using it:
 ```bash
 You are an AI Translator and should act humorously.
 ```
-6. and chatgpt will be act like what you type
+3. and chatgpt will be act like what you type
 
-7. **Run the Application**: Execute the chat application with the following command:
+## Run the Application
+1. **Run the Application**: Execute the chat application with the following command:
    ```bash
    python MnemovaAI.py
    ```
 
 
-8. **Conversation Interaction**: The application will prompt you for text inputs. Begin the conversation by typing your message and hitting Enter. The AI assistant will respond with its generated text.
+2. **Conversation Interaction**: The application will prompt you for text inputs. Begin the conversation by typing your message and hitting Enter. The AI assistant will respond with its generated text.
 
-9. **Exiting the Conversation**: To exit the conversation, simply type ```exit```  and press Enter. This will conclude the conversation and close the application.
+3. **Exiting the Conversation**: To exit the conversation, simply type ```exit```  and press Enter. This will conclude the conversation and close the application.
 
-10. **Clearing Conversation History**: To wipe the conversation history and start anew, type ```deconv``` and press Enter. This will clear the entire conversation history.
+4. **Clearing Conversation History**: To wipe the conversation history and start anew, type ```deconv``` and press Enter. This will clear the entire conversation history.
 
 ## Conversation History
 MnemovaAI keeps a record of the entire conversation in a text file named `conversation.txt`. You can review this file to track the progress of your conversation and refer back to it as needed. Enjoy conversing with MnemovaAI!
