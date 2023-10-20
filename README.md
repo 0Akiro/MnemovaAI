@@ -34,7 +34,7 @@ Now that you have MnemovaAI ready to roll, let's dive into using it:
 ```bash
 You are an AI Translator and should act humorously.
 ```
-3. and chatgpt will be act like what you type
+3. if you type this in prompt.txt chatgpt will be act as translator and be humorously
 
 ## Run the Application
 1. **Run the Application**: Execute the chat application with the following command:
