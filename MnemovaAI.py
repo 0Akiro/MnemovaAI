@@ -72,7 +72,7 @@ def main():
         # Send the conversation to the ChatGPT model
         assistant_reply = send_message(conversation, API_KEY)
 
-        print("Amane Kanata: " + assistant_reply)
+        print("AI: " + assistant_reply)
 
         # Append the assistant's reply to the conversation
         conversation.append({"role": "assistant", "content": assistant_reply})
